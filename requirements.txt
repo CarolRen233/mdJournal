@@ -1,0 +1,4 @@
+frontmatter>=1.0.0
+tkcalendar>=1.6.1
+pyinstaller>=5.0.0
+

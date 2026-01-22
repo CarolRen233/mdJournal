@@ -1,0 +1,19 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+.venv/
+
+# Ignore sensitive data
+config.py
+
+# Ignore build artifacts
+build/
+dist/
+*.spec
+日记.exe
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
